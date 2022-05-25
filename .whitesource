@@ -2,7 +2,7 @@
   "scanSettings": {
     "configMode": "LOCAL",
     "configExternalURL": "",
-    "projectToken": "e96236921e4a4f12a3a8cf3265d38944756e9d0054f5446e85df836859ff90e9",
+    "projectToken": "",
     "baseBranches": ["master", “branch"]
   },
   "checkRunSettings": {
