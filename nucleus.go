@@ -16,6 +16,7 @@ import (
 	"github.com/sede-x/RogerRogerAnomalyDetector/repository/nucleus/power"
 )
 
+
 const (
 	// NucleusTradeRepoErrorCode is the error code for
 	// fetching data from the database
