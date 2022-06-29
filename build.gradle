@@ -12,6 +12,6 @@ repositories {
 
 dependencies {
   compile 'com.fasterxml.jackson.core:jackson-databind:2.7.9'
-  compile 'org.apache.commons:commons-compress:1.11'
+  compile 'org.apache.commons:commons-compress:1.21'
 
 }
