@@ -1,0 +1,17 @@
+plugins {
+	id 'java'
+}
+
+version '1.0-Ece-Snapshot'
+
+sourceCompatibility = 1.8
+
+repositories {
+  mavenCentral()
+}
+
+dependencies {
+  compile 'com.fasterxml.jackson.core:jackson-databind:2.7.9'
+  compile 'org.apache.commons:commons-compress:1.11'
+
+}
